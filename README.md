@@ -1,10 +1,7 @@
 # <b>&#128200; Competitive Programming</b>
 [<img alt="Virtual Judge" height="350em" src="https://user-images.githubusercontent.com/76254396/224528417-283e5faf-59d9-4e68-8cce-ebf984299f11.png">](https://vjudge.net/user/s1091915)
-
-<p float="left">
-  [<img align="right" height="250em" src="https://leetcard.jacoblin.cool/Andy6114?theme=light&font=Karma" />](https://leetcode.com/profile/)
-  [<img height="250em" src="https://raw.githubusercontent.com/Andy106084/cf-stats/main/output/light_card.svg" />](https://codeforces.com/profile/andy910812)
-</p>
+[<img align="right" height="250em" src="https://leetcard.jacoblin.cool/Andy6114?theme=light&font=Karma" />](https://leetcode.com/profile/)
+[<img height="250em" src="https://raw.githubusercontent.com/Andy106084/cf-stats/main/output/light_card.svg" />](https://codeforces.com/profile/andy910812)
 
 ## 目錄
 
